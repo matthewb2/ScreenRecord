@@ -1,0 +1,128 @@
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe.config
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.pdb
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.dll
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.FFMPEG.dll
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csprojResolveAssemblyReference.cache
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form1.resources
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Properties.Resources.resources
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.GenerateResource.Cache
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.exe
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.pdb
+F:\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe.config
+F:\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe
+F:\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.pdb
+F:\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.dll
+F:\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.FFMPEG.dll
+F:\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form1.resources
+F:\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Properties.Resources.resources
+F:\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.GenerateResource.Cache
+F:\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.exe
+F:\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.FFMPEG.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\bin\Release\libmp3lame.32.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\bin\Release\libmp3lame.64.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.FFMPEG.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\bin\Release\NAudio.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\bin\Release\NAudio.Lame.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\bin\Release\NAudio.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ScreenRecord\ScreenRecord\bin\Release\CSCore.dll
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\bin\Release\libmp3lame.32.dll
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\bin\Release\libmp3lame.64.dll
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe.config
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.pdb
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.dll
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.FFMPEG.dll
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\bin\Release\CSCore.dll
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\bin\Release\NAudio.dll
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\bin\Release\NAudio.Lame.dll
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\bin\Release\NAudio.xml
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form1.resources
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form2.resources
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Properties.Resources.resources
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.CopyComplete
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.exe
+C:\Users\Administrator\Downloads\captain-ScreenRecoder\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\libmp3lame.32.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\libmp3lame.64.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.FFMPEG.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\CSCore.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\NAudio.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\NAudio.Lame.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\NAudio.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form1.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form2.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\libmp3lame.32.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\libmp3lame.64.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.FFMPEG.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\CSCore.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\NAudio.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\NAudio.Lame.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\bin\Release\NAudio.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\bin\Release\libmp3lame.32.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\bin\Release\libmp3lame.64.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.FFMPEG.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\bin\Release\CSCore.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\bin\Release\NAudio.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\bin\Release\NAudio.Lame.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\bin\Release\NAudio.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ScreenRecord\captain\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.pdb

@@ -1,0 +1,11 @@
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Debug\ScreenRecord.exe.config
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Debug\ScreenRecord.exe
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Debug\ScreenRecord.pdb
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Debug\ScreenRecord.csprojResolveAssemblyReference.cache
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Debug\ScreenRecord.Properties.Resources.resources
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Debug\ScreenRecord.csproj.GenerateResource.Cache
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Debug\ScreenRecord.exe
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Debug\ScreenRecord.pdb
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Debug\AForge.Video.FFMPEG.dll
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Debug\AForge.Video.dll
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Debug\ScreenRecord.Form1.resources
